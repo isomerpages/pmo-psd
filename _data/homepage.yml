@@ -1,0 +1,39 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Favicon
+favicon: /images/ic-fav-logo.png
+
+# Agency logo
+agency-logo: /images/ic-logo.jpg
+
+# Hero Banner
+hero-title: Building a first class public system
+hero-subtitle: Our vision and mission
+hero-banner: /images/bg-article.jpg
+
+#Call to Action Button
+button:
+  - text: Learn More
+    url: /who-we-are/
+
+key-highlights:
+  - title: Be part of PSD
+    description: Types of Jobs
+    url: https://google.com
+    external: true
+  - title: Challenge
+    description: Trending - The Dementia issue
+    url: https://yahoo.com
+    external: true
+  - title: Career Growth and Development
+    description: Find out more today
+    url: /page-A/
+
+resources-title: Resources
+resources-subtitle: Be in the know
+resources-more-button: More Resources
+resources-more-button-url: press-room/

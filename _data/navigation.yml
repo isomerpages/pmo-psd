@@ -1,0 +1,52 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Who We Are
+  url: /who-we-are/vision-mission-core-values/
+  sub-links:
+  - title: Vision Mission Core Values
+    url: /who-we-are/vision-mission-core-values/
+  - title: Organisational Structure
+    url: /who-we-are/organisational-structure/
+  - title: Service Commitment
+    url: /who-we-are/service-commitment/
+  - title: Achievements
+    url: /who-we-are/achievements/
+- title: What We Do
+  url: /what-we-do/developing-careers/
+  sub-links:
+  - title: Developing Careers
+    url: /what-we-do/developing-careers/
+  - title: Driving Progressive Work Practices
+    url: /what-we-do/driving-progressive-work-practices/
+  - title: Developing Leadership In The Service
+    url: /what-we-do/developing-leadership-in-the-service/
+  - title: Transforming Public Service
+    url: /what-we-do/transforming-public-service/
+- title: Join Us
+  url: /join-us/types-of-jobs-at-psd/
+  sub-links:
+  - title: Types Of Jobs At PSD
+    url: /join-us/types-of-jobs-at-psd/
+  - title: Career Growth And Development
+    url: /join-us/career-growth-and-development/
+  - title: Apply For A Job At PSD
+    url: /join-us/apply-for-a-job-at-psd/
+- title: Press Room
+  url: /press-room/
+  sub-links:
+  - title: All
+    url: /press-room/
+  - title: Press Releases
+    url: /press-room/press-releases/
+  - title: Forum Letter Replies
+    url: /press-room/forum-letter-replies/
+  - title: Parliamentary Replies
+    url: /press-room/parliamentary-replies/
+  - title: Speeches
+    url: /press-room/speeches/
+- title: FAQ
+  url: http://www.ifaq.gov.sg/PSD/apps/fcd_faqmain.aspx
